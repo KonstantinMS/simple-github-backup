@@ -1,5 +1,7 @@
 # GitHub Backup Scheduler
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Automated backup tool for GitHub repositories (public and private) with flexible scheduling.
 Backup all repositories of a user or organization as mirror clones. Supports both interval-based and weekday/time-based scheduling with local timezone awareness.
 
